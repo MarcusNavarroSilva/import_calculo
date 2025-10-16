@@ -1,0 +1,14 @@
+Tarefa pa ra o fim de semana:
+
+No mesmo projeto crie uma biblioteca chamada interface que trenha a opção d emostrar menu
+No menu tera opções como abaixo.
+
+Digite a opção:
+1 - calcular o dobro.
+2 - calcular o triplo.
+3 - calcular o quadrado.
+
+
+Implemente também a função quadrado na biblioteca calculo
+
+mude o programa principal para mostrar o menu em loop, e execute a função escolhida, até que esolha a opção sair.
