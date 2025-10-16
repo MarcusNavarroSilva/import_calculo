@@ -1,3 +1,4 @@
+import math
 import calculo
 op  = 0
 while True:
